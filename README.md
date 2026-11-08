@@ -4,18 +4,12 @@
 
 ## Λήψη
 
-Windows installer: 
-https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-setup.exe
+<p><b>Windows installer:</b></br>https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-setup.exe</p>
 
-Windows, portable
-https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-portable.exe
+<p><b>Windows, portable:</b></br>https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-portable.exe</p>
 
-Linux, .deb
-https://github.com/aristides-bouras/pythonEPAL-plus/releases/latest/download/pythonepal-plus_amd64.deb
+<p><b>Linux, .deb:</b></br>https://github.com/aristides-bouras/pythonEPAL-plus/releases/latest/download/pythonepal-plus_amd64.deb</p>
 
-Linux, .tar.gz
-https://github.com/aristides-bouras/pythonEPAL-plus/releases/latest/download/pythonepal-plus-linux-x64.tar.gz
-
-
+<p><b>Linux, .tar.gz:</b></br>https://github.com/aristides-bouras/pythonEPAL-plus/releases/latest/download/pythonepal-plus-linux-x64.tar.gz</p>
 
 © 2026 Μπούρας Αριστείδης. Όλα τα δικαιώματα διατηρούνται. — www.bouraspage.com
