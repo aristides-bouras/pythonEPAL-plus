@@ -1,8 +1,10 @@
-# pythonEPAL-plus
+# python EPAL plus
 
 Περιβάλλον προγραμματισμού Python 2.7 για τους μαθητές του Τομέα Πληροφορικής των ΕΠΑΛ.
 
 ## Λήψη
+
+<p><b>Microsoft Store:</b></br>       </p>
 
 <p><b>Windows installer:</b></br>https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-setup.exe</p>
 
