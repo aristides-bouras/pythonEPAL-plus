@@ -4,7 +4,7 @@
 
 ## Λήψη
 
-<p><b>Microsoft Store:</b></br>       </p>
+<p><b>Microsoft Store:</b></br>https://apps.microsoft.com/detail/9PF66LCL0CG8</p>
 
 <p><b>Windows installer:</b></br>https://github.com/arisbouras-png/pythonEPAL-plus/releases/latest/download/pythonEPAL-plus-setup.exe</p>
 
